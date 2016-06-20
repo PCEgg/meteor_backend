@@ -1,0 +1,5 @@
+import './routes'
+import '../../../lib/collections/courses'
+import '../../../lib/collections/posts'
+import '../../../lib/collections/comments'
+import 'permissions'

@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "index.js": "0.0.3",
+    "meteor-node-stubs": "^0.2.3",
+    "permissions": "0.0.0",
+    "react": "^15.1.0",
+    "react-addons-pure-render-mixin": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-mounter": "^1.2.0"
+  }
+}
